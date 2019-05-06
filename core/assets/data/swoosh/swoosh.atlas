@@ -1,0 +1,33 @@
+swoosh.png
+size: 184, 640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swoosh
+  rotate: false
+  xy: 0, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+swoosh
+  rotate: false
+  xy: 0, 400
+  size: 176, 240
+  orig: 176, 240
+  offset: 0, 0
+  index: 2
+swoosh
+  rotate: false
+  xy: 0, 160
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 3
+swoosh
+  rotate: false
+  xy: 80, 0
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: 4
